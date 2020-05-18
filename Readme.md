@@ -4,7 +4,7 @@ This is just an example of how to use plain React with Deno. Of course, its not 
 
 ## Setup
 
-`git clone {repo}`
+`git clone https://github.com/Zmeu213/DenoReactExample`
 
 ## Lauch
 
