@@ -1,10 +1,10 @@
-### Deno 1.0 + React 16.13
+# Deno 1.0 + React 16.13
 
 This is just an example of how to use plain React with Deno. Of course, its not yet very useful without frameworks but its already works.
 
 ## Setup
 
-`git clone {repo}`
+`git clone https://github.com/Zmeu213/DenoReactExample`
 
 ## Lauch
 
